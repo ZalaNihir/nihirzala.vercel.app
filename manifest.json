@@ -1,0 +1,10 @@
+{
+    "icons": [
+       {
+        "src": "./src/assets/fullnihirzala.webp",
+        "sizes": "196x196",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ]
+}
