@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: nihirzala.vercel.app
+Token: a74909dc15508bc0c78e975091cb864d5623d85213fab84e6bf81e330e57a760
