@@ -3,7 +3,7 @@
     <article class="flex-1 flex items-center justify-center">
       <div class="w-full max-w-3xl px-4 py-12">
         <div class="mt-8 prose prose-zinc sm:prose-lg max-w-none">
-          <h1>Full-stack Laravel Developer.</h1>
+          <h1>Full-stack Laravel Developer</h1>
           <p>
             Hi there! I'm Nihir Zala from Rajkot, India, and I like to make
             things. I'm currently building
