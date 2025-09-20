@@ -300,8 +300,7 @@
 
 "@highlightjs/vue-plugin@highlightjs/vue-plugin":
   version "2.1.1"
-  resolved "https://codeload.github.com/highlightjs/vue-plugin/tar.gz/ecdd05208b933247084eed2ae1f09ceec3992b99"
-  integrity sha512-KN2yVwV+Pvo2ijnugimrIU5pN69KLaxhGJ+I7clbBjxKdY8uBZDSWuPHNSz52MXfyyV3bZYCfcBRvGK3rEriQg==
+  resolved "git+ssh://git@github.com/highlightjs/vue-plugin.git#ecdd05208b933247084eed2ae1f09ceec3992b99"
 
 "@ioredis/commands@^1.1.1":
   version "1.2.0"
@@ -663,6 +662,11 @@
   resolved "https://registry.npmjs.org/@parcel/watcher-linux-x64-glibc/-/watcher-linux-x64-glibc-2.5.1.tgz"
   integrity sha512-GcESn8NZySmfwlTsIur+49yDqSny2IhPeZfXunQi48DMugKeZ7uy1FX83pO0X22sHntJ4Ub+9k34XQCX+oHt2A==
 
+"@parcel/watcher-linux-x64-musl@2.5.1":
+  version "2.5.1"
+  resolved "https://registry.npmjs.org/@parcel/watcher-linux-x64-musl/-/watcher-linux-x64-musl-2.5.1.tgz"
+  integrity sha512-n0E2EQbatQ3bXhcH2D1XIAANAcTZkQICBPVaxMeaCVBtOpBZpWJuf7LwyWPSBDITb7In8mqQgJ7gH8CILCURXg==
+
 "@parcel/watcher-wasm@^2.4.1":
   version "2.5.1"
   resolved "https://registry.npmjs.org/@parcel/watcher-wasm/-/watcher-wasm-2.5.1.tgz"
@@ -811,6 +815,11 @@
   version "4.52.0"
   resolved "https://registry.npmjs.org/@rollup/rollup-linux-x64-gnu/-/rollup-linux-x64-gnu-4.52.0.tgz"
   integrity sha512-nmSVN+F2i1yKZ7rJNKO3G7ZzmxJgoQBQZ/6c4MuS553Grmr7WqR7LLDcYG53Z2m9409z3JLt4sCOhLdbKQ3HmA==
+
+"@rollup/rollup-linux-x64-musl@4.52.0":
+  version "4.52.0"
+  resolved "https://registry.npmjs.org/@rollup/rollup-linux-x64-musl/-/rollup-linux-x64-musl-4.52.0.tgz"
+  integrity sha512-2d0qRo33G6TfQVjaMR71P+yJVGODrt5V6+T0BDYH4EMfGgdC/2HWDVjSSFw888GSzAZUwuska3+zxNUCDco6rQ==
 
 "@sindresorhus/merge-streams@^2.1.0":
   version "2.3.0"
