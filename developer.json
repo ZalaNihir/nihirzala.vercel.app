@@ -1,7 +1,7 @@
 {
-    "name": "Micheal Weaver",
-    "logo_name": "micheal-weaver",
-    "role": "Front-end developer",
+    "name": "Nihir Zala",
+    "logo_name": "Nihir-Zala",
+    "role": "Full-Stack Laravel Developer",
     "about": {
         "sections": {
             "professional-info": {
@@ -10,15 +10,15 @@
                 "info": {
                     "experience": {
                         "title": "experience",
-                        "description": "<br>Over the past 5 years, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I have over four years of professional experience as a Laravel Developer, currently working at TechAbbot. My role has allowed me to work on large-scale projects, focusing on backend development, RESTful API integration, and database optimization. I have contributed to building secure, scalable, and maintainable applications while collaborating closely with cross-functional teams to deliver high-quality solutions."
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>My core technical expertise includes Laravel, PHP, MySQL, JavaScript, and Bootstrap, with a specialization in developing efficient backend systems and APIs. I also have hands-on experience with modern frontend frameworks like Nuxt.js and React, which allows me to work on full-stack solutions and deliver seamless user experiences. I am skilled in database design, query optimization, and implementing secure authentication mechanisms, as well as version control with Git and package/library development. Currently, I am expanding my knowledge by learning Rust, with the goal of building high-performance and memory-safe applications in the future."
                     },
                     "soft-skills": {
                         "title": "soft-skills",
-                        "description": "<br>I bring more than Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Beyond my technical expertise, I bring strong problem-solving abilities, adaptability, and a commitment to continuous learning. I value teamwork and effective communication, which helps me collaborate productively with both developers and non-technical stakeholders. I am highly motivated, detail-oriented, and able to manage tasks independently while maintaining a focus on delivering impactful results."
                     }
                 }
             },
@@ -28,18 +28,17 @@
                 "info": { 
                     "bio": {
                         "title": "bio",
-                        "description": "<br> About me <br> I have 5 years of experience in web development lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur. Excepteur sint occaecat  officia deserunt mollit anim id est laborum."
+                        "description": "<br> About me <br> I am Nihir Zala, a passionate and self-driven individual with a strong interest in technology and creative problem-solving. I enjoy exploring how things work, learning new programming languages and frameworks, and constantly pushing myself to grow both personally and professionally. My approach is guided by curiosity, discipline, and a commitment to continuous improvement."
                     },
                     "interests": {
                         "title": "interests",
-                        "description": "<br>I am constantly learning and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Beyond development, I have a wide range of interests that keep me motivated and balanced. I enjoy participating in coding challenges, CTF competitions, and open-source contributions. In my free time, I like sports, gaming, music, and exploring new technologies like Rust, Nuxt, and React. These activities help me sharpen my skills, stay creative, and maintain a healthy work-life balance."
                     },
                     "education": {
                         "title": "education",
-                        "description": "<br>I have always been passionate about lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                        "description": "<br>I completed my high school education with a strong foundation in science and mathematics, which sparked my interest in technology early on. I then pursued my university studies, where I specialized in Computer Application, gaining both theoretical knowledge and practical experience that prepared me for a career in software development.",
                         "files": {
-                            "high-school": "I have been in 'Las viñas'...",
-                            "university": "The university..."
+                            "university": "Saurastra University"
                         }
                     }
                 }
@@ -50,11 +49,11 @@
                 "info": {
                     "sports": {
                         "title": "sports",
-                        "description": "<br>I am an avid sports enthusiast and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Sports keep me disciplined, competitive, and motivated. I regularly play cricket and football, which help me build teamwork skills and maintain a healthy lifestyle."
                     },
                     "favorite-games": {
                         "title": "favorite-games",
-                        "description": "<br>I am a passionate gamer with Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                        "description": "<br>Gaming has always been one of my favorite pastimes as it helps me relax while also sharpening my focus and strategic thinking. I particularly enjoy playing battle royale and tactical shooters like PUBG/BGMI and Valorant, which test my teamwork and decision-making under pressure. I also like classic competitive games such as CS:GO for improving quick reflexes, and FIFA because football is just as exciting on the screen as it is on the field."
                     }
                 }
             }
@@ -64,25 +63,25 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "user@gmail.com",
-                "phone": "+3598246359"
+                "email": "testnihir@gmail.com",
+                "phone": "+919714742706"
             }
         },
         "social": {
             "github": {
                 "title": "Github profile",
                 "url": "https://github.com/",
-                "user": "username"
+                "user": "ZalaNihir"
             },
-            "facebook": {
-                "title": "Facebook profile",
-                "url": "https://facebook.com/",
-                "user": "username"
+            "medium": {
+                "title": "Medium profile",
+                "url": "https://nihirzala.medium.com/",
+                "user": "ZalaNihir"
             },
-            "twitter": {
-                "title": "Twitter account",
-                "url": "https://twitter.com/",
-                "user": "username"
+            "linkedin": {
+                "title": "linkedin profile",
+                "url": "https://www.linkedin.com/in/",
+                "user": "nihirzala"
             }
         },
         "find_me_also_in": {
@@ -112,8 +111,7 @@
         }
     },
     "gists": {
-        "1": "83861a67e377633ee8368df01ee3a355",
-        "2": "694c1f32332788a2ac7f37b09e5aa40e"
+        "1": "a495d16b3b4f06394bb8db331d7d0ffa"
     },
     "projects": {
         "1": {
