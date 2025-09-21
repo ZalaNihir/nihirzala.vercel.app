@@ -34,6 +34,7 @@ export default defineNuxtConfig({
         { hid: 'og:image', property: 'og:image', content: 'demo-share.jpg' },
         { hid: 'og:url', property: 'og:url', content: 'https://nihirzala.vercel.app/' },
         { name: 'theme-color', content: '#010C15' },
+        { name: 'google-site-verification', content: 'RXlKEbTDQb7rHXzYE1Fh-3vv5-g4in2MFkfYH6jZ9pk' },
         // ...
       ],
       link: [
