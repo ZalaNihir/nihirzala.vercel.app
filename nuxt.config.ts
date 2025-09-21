@@ -31,10 +31,10 @@ export default defineNuxtConfig({
         { hid: 'description', name: 'description', content: 'Full Stack Laravel Developer from the India.' },
         { hid: 'og:title', property: 'og:title', content: siteTitle },
         { hid: 'og:description', property: 'og:description', content: 'Full Stack Laravel Developer from the India.' },
+        { name: 'google-site-verification', content: 'RXlKEbTDQb7rHXzYE1Fh-3vv5-g4in2MFkfYH6jZ9pk' },
         { hid: 'og:image', property: 'og:image', content: 'demo-share.jpg' },
         { hid: 'og:url', property: 'og:url', content: 'https://nihirzala.vercel.app/' },
         { name: 'theme-color', content: '#010C15' },
-        { name: 'google-site-verification', content: 'RXlKEbTDQb7rHXzYE1Fh-3vv5-g4in2MFkfYH6jZ9pk' },
         // ...
       ],
       link: [
