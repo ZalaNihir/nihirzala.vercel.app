@@ -25,7 +25,7 @@
 
             <!-- find me also in -->
             <div id="find-me-in" class="submenu border-top">
-                <div class="title" @click="open('find-me-in')">
+                <div class="title d-none" @click="open('find-me-in')">
                     <img class="arrow" src="/icons/arrow.svg" alt="">
                     <h3>
                         find-me-also-in

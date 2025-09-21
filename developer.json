@@ -115,43 +115,43 @@
     },
     "projects": {
         "1": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_deadcode",
+            "description": "Laravel Package for scanning the dead or unused code in the laravel project.",
             "img": "/images/projects/ui-animations2.png",
-            "tech": ["Flutter"],
-            "url": "https://github.com/"
+            "tech": ["Laravel"],
+            "url": "https://github.com/ZalaNihir/deadcode-scanner/"
         },
         "2": {
-            "title": "_ai-resources",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_portfolio",
+            "description": "Have worked on the simple portfolio project using Nuxt.js.",
             "img": "/images/projects/ai-resources.png",
-            "tech": ["Gatsby"],
+            "tech": ["Nuxt"],
             "url": "https://github.com/"
         },
         "3": {
-            "title": "_worldmap",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_package-csc",
+            "description": "Laravel Package for Country State City data with the integrated seeder.",
             "img": "/images/projects/worldmap.png",
-            "tech": ["Angular"],
-            "url": "https://github.com/"
+            "tech": ["Laravel"],
+            "url": "https://github.com/ZalaNihir/country-state-city-package"
         },
         "4": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_admin-template",
+            "description": "Have worked on the admin template using React.js and Tailwind CSS.",
             "img": "/images/projects/ui-animations.png",
             "tech": ["React"],
             "url": "https://github.com/"
         },
         "5": {
-            "title": "_tetris-game",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_bussiness-website",
+            "description": "Have worked on the website which realted to business and the marketing.",
             "img": "/images/projects/tetris-game.png",
             "tech": ["React"],
             "url": "https://github.com/"
         },
         "6": {
             "title": "_ethereum",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "description": "Crpto tracking App using Vue.js and CoinGecko API.",
             "img": "/images/projects/ethereum.png",
             "tech": ["Vue"],
             "url": "https://github.com/"
