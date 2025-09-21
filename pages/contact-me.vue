@@ -24,14 +24,14 @@
             </div>
 
             <!-- find me also in -->
-            <div id="find-me-in" class="submenu border-top">
-                <div class="title d-none" @click="open('find-me-in')">
+            <div id="find-me-in" class="submenu border-top d-none">
+                <div class="title" @click="open('find-me-in')">
                     <img class="arrow" src="/icons/arrow.svg" alt="">
                     <h3>
                         find-me-also-in
                     </h3>
                 </div>
-                <div id="links">
+                <div id="links" class="">
                     <div v-for="(source, key) in contact.find_me_also_in.sources" :key="key" class="link">
                         <img src="/icons/link.svg" alt="">
                         <a :href="source.url + source.user" class="font-fira_retina text-menu-text hover:text-white" target="_blank">{{ source.title }}</a>
@@ -208,5 +208,7 @@ export default {
         font-size: 14px;
     }
 }
-
+.d-none{
+    display: none !important;
+}
 </style>
